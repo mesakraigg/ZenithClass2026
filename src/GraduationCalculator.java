@@ -13,7 +13,7 @@ public class GraduationCalculator {
                 System.out.print("Enter graduation year: ");
                 int gradYear = scanner.nextInt();
 
-                int currentYear = 2024;
+                int currentYear = 2026;
                 int yearsUntilGrad = gradYear - currentYear;
 
                 System.out.println("\nWelcome, " + name + "!");
